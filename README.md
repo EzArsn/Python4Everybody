@@ -1,2 +1,2 @@
 # Python4Everybody
-This contains exercise files that I've worked during reading this book
+While I was learning basic python programming from freecodecamp.org, I've also tried out the exercises from Dr Charles Severance's book Python For Everybody.
