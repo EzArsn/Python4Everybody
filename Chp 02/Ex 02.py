@@ -1,6 +1,10 @@
+# Exercise 2: Write a program that uses input to prompt a user for their name and then welcomes them.
+# Eg:
+    # Enter your name: Chuck
+    # Hello Chuck
+
 def main():
-    print("Enter your name: ",end='')
-    n=input()
-    print(f"Hello {n}")
+    n= input("Enter your name: ")
+    print("Hello ",n)
     
 main()
